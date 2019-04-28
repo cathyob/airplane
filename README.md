@@ -12,8 +12,8 @@ Aisles are not provided and must be determined based on what seat number(s) are 
 
 The sections should show in order of row number e.g. the original array may have the first seat as an economy class but both first and business class should be shown before economy.
 
-Blue = Available
-White = Unavailable
+Blue = Available  
+White = Unavailable  
 Pink = Selected
 
 The user should be able to select one of the available seats. If another seat is already selected it should be deselected.
